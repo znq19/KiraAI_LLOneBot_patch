@@ -1,4 +1,4 @@
-# KiraAI · LLOneBot 兼容补丁
+# KiraAI · LLOneBot 兼容补丁v12
 
 让 KiraAI 能完整读取 LLOneBot 的语音和合并转发消息（含嵌套），仅需替换一个文件。
 
